@@ -1,11 +1,11 @@
-id: 1c53c01da68543509e6912484735a7ab
+id: 6b6b94f3cfb04844951fd25a6a12b76f
 annotation_type: index
 revision: '00001'
 annotations:
-  cb47afef9e6846309026f3629b5bb63b:
+  cde459ea721b408f882f7100103d2be9:
     parts: {}
     span:
     - vol: 47
-      start: 0
-      end: 3211
+      start: 1
+      end: 3222
     work_id: N4878
